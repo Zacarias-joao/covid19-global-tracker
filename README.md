@@ -23,5 +23,5 @@ This notebook provides interactive filters, charts, and automatic reporting feat
    ```bash
    git clone https://github.com/your-username/covid19-global-tracker.git
    cd covid19-global-tracker
-pip install -r requirements.txt
-jupyter notebook COVID19_Global_Data_Tracke.ipynb
+   pip install -r requirements.txt
+   jupyter notebook COVID19_Global_Data_Tracke.ipynb
